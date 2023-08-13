@@ -24,7 +24,7 @@ Hey there! I'm Samiran Ghosh, a BCA graduate currently pursuing MCA. I'm passion
 
 ## Skills
 
-Here are some of the languages and tools I'm proficient in:
+Here are some of the languages, libraries, frameworks and tools I'm proficient in:
 
 ![JavaScript (JS)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

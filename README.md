@@ -1,4 +1,3 @@
-
 <!--
 **samiranghosh04/samiranghosh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to My GitHub Profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=samiranghosh04)
 
 Hey there! I'm Samiran Ghosh, a BCA graduate currently pursuing MCA. I'm passionate about coding and technology, and I love exploring various aspects of web development and software engineering. This GitHub profile is a collection of my projects and contributions, reflecting my fundamental knowledge in various programming languages and technologies.
 

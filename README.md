@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=samiranghosh04)
+![Profile Views](https://komarev.com/ghpvc/?username=samiranghosh04) <br>
+![Samiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiranghosh04&show_icons=true&theme=radical)
 
 Hey there! I'm Samiran Ghosh, a BCA graduate currently pursuing MCA. I'm passionate about coding and technology, and I love exploring various aspects of web development and software engineering. This GitHub profile is a collection of my projects and contributions, reflecting my fundamental knowledge in various programming languages and technologies.
 

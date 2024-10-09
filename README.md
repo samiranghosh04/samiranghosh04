@@ -70,6 +70,6 @@ I'm currently focusing on enhancing my knowledge in distributed systems, data st
 
 ## Contact
 
-If you want to reach out to me for collaboration or have any questions, feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/samiranghosh04) or drop me an [email](samiranghoshofficial04@gmail.com).
+If you want to reach out to me for collaboration or have any questions, feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/samiranghosh04) or drop me an [email](samiranghoshofficial@gmail.com).
 
 Let's learn and grow together in the vast world of programming! 😄

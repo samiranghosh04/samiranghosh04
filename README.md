@@ -58,9 +58,15 @@ Here are some of the projects you'll find in this repository:
 
 1. **BBC Article Scraper**: This is a simple web scraper built using Node.js, Express, Cheerio, and Axios. It fetches the latest articles from the [BBC's website](https://www.bbc.com/) and prints an array of objects called "articles" to the console. Each object contains the headline and the link to the article. (https://github.com/samiranghosh04/bbc-article-web-scraper)
 
-2. **cryptopulse**: Free price tracker of over 120+ cryptocurrencies built with React, Axios and a free public/third party API. [GitHub](https://github.com/samiranghosh04/cryptopulse) [Netlify Site](https://crypto-pulse.netlify.app/)
+2. **Retomizer** : This is a simple small scale atom based React state manager built using the useSyncExternalStore API of React, inspired by the likes of Jotai and Recoil. [GitHub](https://github.com/samiranghosh04/retomizer) | [npm](https://www.npmjs.com/package/retomizer)
 
-3.  **Sea JS**: The world's smallest UI framework. You can check it out here [GitHub](https://github.com/samiranghosh04/sea-js) and its also on [npm](https://www.npmjs.com/package/sea-js-ui-core)
+3. **Coral**: This is an experimental DX first fullstack meta-framework being built using Vinxi. Feel free to check it out here [GitHub](https://github.com/samiranghosh04/coral) | [Docs](https://coral-docs.netlify.app/)
+
+4. **ToyScript**: This is a simple interpreter based programming language written in TypeScript. Check it out here: [GitHub](https://github.com/samiranghosh04/ToyScript)
+
+5. **cryptopulse**: Free price tracker of over 120+ cryptocurrencies built with React, Axios and a free public/third party API. [GitHub](https://github.com/samiranghosh04/cryptopulse) | [Netlify Site](https://crypto-pulse.netlify.app/)
+
+6.  **Sea JS**: The world's smallest UI framework. You can check it out here [GitHub](https://github.com/samiranghosh04/sea-js) and its also on [npm](https://www.npmjs.com/package/sea-js-ui-core)
 
 Feel free to explore and provide feedback or suggestions. I'm always open to learning and improving my skills!
 
